@@ -38,7 +38,7 @@
                 z-index: 2;
                 color: transparent;
                 font-weight: bold;
-                font-size: 72px;
+                font-size: 80px;
                 font-family: sans-serif;
                 -webkit-animation: 2.5s ease-in-out 1s infinite alternate colorT;
                 -o-animation: 2.5s ease-in-out 1s infinite alternate colorT;
