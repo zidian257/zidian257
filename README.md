@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+	<br>
+		<img src="magic.svg" width="500" height="375">
+	<br>
+</div>
 
 This is zidian257, a software engineer with peace and love.
 
