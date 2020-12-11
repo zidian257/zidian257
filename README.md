@@ -1,6 +1,6 @@
 <div align="left">
 	<br>
-		<img src="magic.svg" width="500" height="375">
+		<img src="magic.svg" width="300" height="225">
 	<br>
 </div>
 
