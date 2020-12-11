@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 	<br>
 		<img src="magic.svg" width="500" height="375">
 	<br>
